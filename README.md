@@ -29,9 +29,9 @@ I'm a **Software testing Intern** that's also studying **Software Development**.
 ## 📜 Certifications
 
 - ✅ Google IT Support Professional Certificate
-- ✅ Google Cybersecurity Certificate
+- ✅ Google Cybersecurity Professional Certificate
 - ✅ Microsoft Azure AI Fundamentals (AI-900)
-- ✅ Intuit Academy Bookkeeping
+- ✅ Intuit Academy Bookkeeping Professional Certificate
 - 🔄 In Progress: NQF4 Systems Development
 - 🔄 In Progress: FreeCodeCamp Full Stack Developer
 
