@@ -5,7 +5,7 @@
 I'm a **Software testing Intern** that's also studying **Software Development**. Currently working with manual testing while upskilling in automation technologies.
 
 - 🔭 Currently working on: FreeCodeCamp Full Stack Certification
-- 🎓 Also working on: NQF 4 Systems Development Certification
+- 🎓 Also working on: NQF4 Systems Development Certification
 - 🌱 Learning: Playwright, Test Automation
 - 💼 Role: QA Testing Intern at TechGeniusZA
 - 📍 Location: Johannesburg, South Africa
