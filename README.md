@@ -2,7 +2,7 @@
 
 ## 🧪 About Me
 
-I'm a **Software testing Intern** thats also studying **Software Development**. Currently working with manual testing while upskilling in automation technologies.
+I'm a **Software testing Intern** that's also studying **Software Development**. Currently working with manual testing while upskilling in automation technologies.
 
 - 🔭 Currently working on: FreeCodeCamp Full Stack Certification
 - 🌱 Learning: Playwright, Selenium, Test Automation
@@ -14,7 +14,7 @@ I'm a **Software testing Intern** thats also studying **Software Development**. 
 
 **Currently Using:**
 - **Testing:** Manual QA, Test Case Design
-- **Languages:** JavaScript, TypeScript, C#, HTML/CSS
+- **Languages:** JavaScript, Java, C#, HTML/CSS
 - **Databases:** SQL
 - **Tools:** Git, Visual Studio, VS Code
 
@@ -36,12 +36,12 @@ I'm a **Software testing Intern** thats also studying **Software Development**. 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Luaan-Robinson&show_icons=true&theme=radical)
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luaan-robinson-a6338621b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luaan-robinson.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Luaan-Robinson.github.io)
 
 ## 📌 Pinned Projects
 
