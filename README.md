@@ -44,6 +44,6 @@ I'm a **Software testing Intern** that's also studying **Software Development**.
 
 Check out my featured projects below! ⬇️
 
-- EmpowerTech Training Center landing page: https://luaan-robinson.github.io/Training-Center/
+- EmpowerTech Training Center demo site: https://luaan-robinson.github.io/Training-Center/
 - C# Windows Form Calculator: https://github.com/Luaan-Robinson/Calculator.git
 - Tic Tac Toe Game | Java Swing Application: https://github.com/Luaan-Robinson/TicTacToe.git
