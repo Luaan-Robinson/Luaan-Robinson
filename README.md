@@ -34,14 +34,9 @@ I'm a **Software testing Intern** that's also studying **Software Development**.
 - 🔄 In Progress: NQF4 Systems Development
 - 🔄 In Progress: FreeCodeCamp Full Stack Developer
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Luaan-Robinson&show_icons=true&theme=radical)
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luaan-robinson-a6338621b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Luaan-Robinson.github.io)
 
 ## 📌 Pinned Projects
 
