@@ -38,7 +38,7 @@ I'm a **Software testing Intern** that's also studying **Software Development**.
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luaan-robinson-a6338621b)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Luaan-Robinson?tab=repositories)    TODO: Create real portfolio-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Luaan-Robinson?tab=repositories)    <!-- TODO: Create real portfolio site-->
 
 ## 📌 Pinned Projects
 
