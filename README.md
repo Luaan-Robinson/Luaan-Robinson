@@ -14,7 +14,7 @@ I'm a **Software testing Intern** that's also studying **Software Development**.
 ## 🛠️ Tech Stack
 
 **Currently Using:**
-- **Testing:** Manual QA, Test Case Design
+- **Testing:** Jira, Manual QA, Test Case Design
 - **Languages:** JavaScript, Java, C#, HTML/CSS
 - **Databases:** SQL
 - **Tools:** Git, Visual Studio, VS Code
